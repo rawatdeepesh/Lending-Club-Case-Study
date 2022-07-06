@@ -11,13 +11,14 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- In this case study, a lending Club firm which specialises in giving or facilitating Loans between two parties use Exploratory Data Analysis to solve their problem and take correct business decision, majorly:
+- * Is a certain likely to pay back the Loan and not get Charged off, and should their Loan REquest be Approved or Rejected
+### This is a risk since:
+- **If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+- **If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+## Objective
+The main Goal is to identify Risky Loan applicants based on the historical data. This requires identifying strong indicators from the data and plotting useful and accurate graph types to analyse and draw beneficial inferences towards our Business Decision
 ## Conclusions
 - Conclusion 1 from the analysis
 - Conclusion 2 from the analysis
